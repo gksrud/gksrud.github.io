@@ -1,2 +1,0 @@
-# gksrud.github.io
-webpage
